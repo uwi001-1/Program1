@@ -1,0 +1,7 @@
+6
+The_Dark_Knight Christopher_Nolan 152 8 2008
+Forrest_Gump Robert_Zemeckis 142 6 1994
+Pulp_Fiction Quentin_Tarantino 154 5 1994
+The_Lord_of_the_Rings Peter_Jackson 178 4 2001
+Casablanca Michael_Curtiz 102 3 1942
+Interstellar Christopher_Nolan 169 7 2014
